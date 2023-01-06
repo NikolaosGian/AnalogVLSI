@@ -12,13 +12,14 @@
   </p>
 </div>
 <br />
-
-# Presentation of Serializer / Deserializer
+<div align="center">
+<h3 align="center"> Presentation of Serializer / Deserializer </h3>
 The archive <a href="https://github.com/NikolaosGian/AnalogVLSI/blob/main/ser_der.pptx/" >ser_der.pptx </a> is the presentation that my partner and I made. <br />
 Here you will also find the reference for our presentation <a href="https://github.com/NikolaosGian/AnalogVLSI/blob/main/report_notes.pdf" > report_notes.pdf </a> 
 
-# Design job description 
+<h3 align="center"> Design job description  </h3>
 
-In this project we had to design the circuit and the layout of the `StrongARM Latch` circuit with the help of Virtuoso.
+In this project we had to design the circuit and the layout of the `StrongARM Latch` circuit with the help of Virtuoso. <br/>
 The whole project can be found here <a href="https://github.com/NikolaosGian/AnalogVLSI/blob/main/strongARM_Latch.zip" > strongARM_Latch.zip</a>
 
+</div>
