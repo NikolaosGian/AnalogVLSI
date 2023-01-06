@@ -12,3 +12,12 @@
   </p>
 </div>
 <br />
+
+# Presentation of Serializer / Deserializer
+The archive ser_der.pptx is the presentation that my partner and I made.
+
+
+# Design job description 
+
+In this project we had to design the circuit and the layout of the `StrongARM Latch` circuit with the help of Virtuoso.
+The whole project can be found here λινκ
