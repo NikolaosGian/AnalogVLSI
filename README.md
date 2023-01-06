@@ -20,6 +20,6 @@ Here you will also find the reference for our presentation <a href="https://gith
 <h3 align="center"> Design job description  </h3>
 
 In this project we had to design the circuit and the layout of the `StrongARM Latch` circuit with the help of Virtuoso. <br/>
-The whole project can be found here <a href="https://github.com/NikolaosGian/AnalogVLSI/blob/main/strongARM_Latch.zip" > strongARM_Latch.zip</a>
+The whole project can be found here <a href="https://github.com/NikolaosGian/AnalogVLSI/blob/main/strongARM_Latch.zip" > strongARM_Latch.zip</a> & the report file <a href="https://github.com/NikolaosGian/AnalogVLSI/blob/main/Report_StrongARM_LatchDesign.pdf" > Report_StrongARM_LatchDesign.pdf</a>
 
 </div>
