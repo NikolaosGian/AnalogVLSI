@@ -14,10 +14,11 @@
 <br />
 
 # Presentation of Serializer / Deserializer
-The archive ser_der.pptx is the presentation that my partner and I made.
-
+The archive <a href="https://github.com/NikolaosGian/AnalogVLSI/blob/main/ser_der.pptx/" >ser_der.pptx </a> is the presentation that my partner and I made. <br />
+Here you will also find the reference for our presentation <a href="https://github.com/NikolaosGian/AnalogVLSI/blob/main/report_notes.pdf" > report_notes.pdf </a> 
 
 # Design job description 
 
 In this project we had to design the circuit and the layout of the `StrongARM Latch` circuit with the help of Virtuoso.
-The whole project can be found here λινκ
+The whole project can be found here <a href="https://github.com/NikolaosGian/AnalogVLSI/blob/main/strongARM_Latch.zip" > strongARM_Latch.zip</a>
+
